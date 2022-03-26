@@ -5,4 +5,4 @@ resources:
   - datadog.yaml
   - nginx.yaml
   - linkerd.yaml
-  - fluentbit.yaml
+  - fluent-bit.yaml
